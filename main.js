@@ -1,1 +1,3 @@
-console.log('coucou')
+const Game = require('./src/Game')
+
+new Game().start()

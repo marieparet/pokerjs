@@ -1,0 +1,210 @@
+[
+  {
+    "suit": "coeurs",
+    "value": 2
+  },
+  {
+    "suit": "coeurs",
+    "value": 3
+  },
+  {
+    "suit": "coeurs",
+    "value": 4
+  },
+  {
+    "suit": "coeurs",
+    "value": 5
+  },
+  {
+    "suit": "coeurs",
+    "value": 6
+  },
+  {
+    "suit": "coeurs",
+    "value": 7
+  },
+  {
+    "suit": "coeurs",
+    "value": 8
+  },
+  {
+    "suit": "coeurs",
+    "value": 9
+  },
+  {
+    "suit": "coeurs",
+    "value": 10
+  },
+  {
+    "suit": "coeurs",
+    "value": "J"
+  },
+  {
+    "suit": "coeurs",
+    "value": "Q"
+  },
+  {
+    "suit": "coeurs",
+    "value": "K"
+  },
+  {
+    "suit": "coeurs",
+    "value": "A"
+  },
+  {
+    "suit": "carreaux",
+    "value": 2
+  },
+  {
+    "suit": "carreaux",
+    "value": 3
+  },
+  {
+    "suit": "carreaux",
+    "value": 4
+  },
+  {
+    "suit": "carreaux",
+    "value": 5
+  },
+  {
+    "suit": "carreaux",
+    "value": 6
+  },
+  {
+    "suit": "carreaux",
+    "value": 7
+  },
+  {
+    "suit": "carreaux",
+    "value": 8
+  },
+  {
+    "suit": "carreaux",
+    "value": 9
+  },
+  {
+    "suit": "carreaux",
+    "value": 10
+  },
+  {
+    "suit": "carreaux",
+    "value": "J"
+  },
+  {
+    "suit": "carreaux",
+    "value": "Q"
+  },
+  {
+    "suit": "carreaux",
+    "value": "K"
+  },
+  {
+    "suit": "carreaux",
+    "value": "A"
+  },
+  {
+    "suit": "trefles",
+    "value": 2
+  },
+  {
+    "suit": "trefles",
+    "value": 3
+  },
+  {
+    "suit": "trefles",
+    "value": 4
+  },
+  {
+    "suit": "trefles",
+    "value": 5
+  },
+  {
+    "suit": "trefles",
+    "value": 6
+  },
+  {
+    "suit": "trefles",
+    "value": 7
+  },
+  {
+    "suit": "trefles",
+    "value": 8
+  },
+  {
+    "suit": "trefles",
+    "value": 9
+  },
+  {
+    "suit": "trefles",
+    "value": 10
+  },
+  {
+    "suit": "trefles",
+    "value": "J"
+  },
+  {
+    "suit": "trefles",
+    "value": "Q"
+  },
+  {
+    "suit": "trefles",
+    "value": "K"
+  },
+  {
+    "suit": "trefles",
+    "value": "A"
+  },
+  {
+    "suit": "piques",
+    "value": 2
+  },
+  {
+    "suit": "piques",
+    "value": 3
+  },
+  {
+    "suit": "piques",
+    "value": 4
+  },
+  {
+    "suit": "piques",
+    "value": 5
+  },
+  {
+    "suit": "piques",
+    "value": 6
+  },
+  {
+    "suit": "piques",
+    "value": 7
+  },
+  {
+    "suit": "piques",
+    "value": 8
+  },
+  {
+    "suit": "piques",
+    "value": 9
+  },
+  {
+    "suit": "piques",
+    "value": 10
+  },
+  {
+    "suit": "piques",
+    "value": "J"
+  },
+  {
+    "suit": "piques",
+    "value": "Q"
+  },
+  {
+    "suit": "piques",
+    "value": "K"
+  },
+  {
+    "suit": "piques",
+    "value": "A"
+  }
+]

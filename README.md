@@ -1,6 +1,6 @@
 ## Todo 
 
-- [ ] improve player implementation
+- [ ] improve player implementation
 ```javascript
 new Player({
   name: 'Michael',
